@@ -1,0 +1,43 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1340_3107)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112.481 147.482C111.113 144.257 107.972 142.002 104.317 142.002C103.31 142.002 102.342 142.173 101.439 142.488C99.7258 139.835 96.7837 138.085 93.4419 138.085C90.2457 138.085 87.4151 139.686 85.6755 142.147C84.9795 141.734 84.1712 141.498 83.3089 141.498C82.5542 141.498 81.8408 141.679 81.2079 142.001C79.4988 137.544 75.255 134.388 70.2903 134.388C65.7317 134.388 61.7808 137.048 59.8419 140.934C58.6956 140.384 57.4158 140.076 56.0657 140.076C51.7187 140.076 48.1 143.266 47.3239 147.482H112.481Z" fill="#C2E8FF"/>
+<path d="M41.5 148.5H266.5" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round"/>
+<path d="M33.5 148.5H36.5" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round"/>
+<path d="M238 155.5H244" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M132.5 155.5H233" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56 148L93.5 117.5L122 140.062" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M113.5 132.972L122.5 125.5L150 148" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M139.963 131.939L142.5 141L136.885 136.053L138.037 131.939C138.186 131.407 138.738 131.097 139.27 131.246C139.606 131.34 139.869 131.603 139.963 131.939Z" fill="#C2E8FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M76.732 127.232L77.3563 130.954L73 133.368L74.7843 127.123C74.936 126.591 75.4895 126.284 76.0205 126.436C76.3914 126.542 76.6682 126.851 76.732 127.232Z" fill="#C2E8FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M216.171 120.542L222.009 140.693C222.317 141.754 221.706 142.864 220.645 143.171C220.464 143.223 220.277 143.25 220.088 143.25H208.412C207.307 143.25 206.412 142.355 206.412 141.25C206.412 141.062 206.438 140.874 206.491 140.693L212.329 120.542C212.636 119.481 213.746 118.871 214.807 119.178C215.465 119.369 215.98 119.884 216.171 120.542Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M214.5 116.412L223.5 142.5H205.5L214.5 116.412Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M214.5 118.598C214.5 137.773 214.5 147.574 214.5 148C214.5 147.574 214.5 137.773 214.5 118.598Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M219.25 130.912C216.583 134.142 215.25 135.809 215.25 135.912C215.25 135.809 216.583 134.142 219.25 130.912Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.324 99.75L209.555 140.677C209.871 141.736 209.27 142.85 208.212 143.166C208.026 143.222 207.833 143.25 207.639 143.25H187.009C185.904 143.25 185.009 142.355 185.009 141.25C185.009 141.056 185.037 140.863 185.093 140.677L197.324 99.75Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.5 99.75L211.25 142.5H184.25L197.5 99.75Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.5 101.543C197.5 131.763 197.5 147.249 197.5 148C197.5 147.249 197.5 131.763 197.5 101.543Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M191.824 120.75C195.491 124.289 197.324 126.123 197.324 126.25C197.324 126.123 195.491 124.289 191.824 120.75Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.824 133.75C202.491 128.289 204.824 125.623 204.824 125.75C204.824 125.623 202.491 128.289 197.824 133.75Z" stroke="#C2E8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M183.5 34L174.5 65L212.5 84L215.5 43L183.5 34Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M182.5 37L173.981 63.3765C174.734 64.3753 175.069 65.0193 174.985 65.3086C174.901 65.5978 175.547 66.0614 176.924 66.6992L211.784 83.7632V45.4397L210.981 45.0103L182.5 37Z" fill="#C2E8FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M183.5 34L174.5 65L212.5 84L215.5 43L183.5 34Z" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M183.5 34L211.5 82.5" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M174.5 65C181.669 57.3878 187.502 52.3878 192 50C196.498 47.6122 204.331 45.4456 215.5 43.5" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M193.217 67.0645C186.365 86.069 174.159 99.3076 156.597 106.78" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M212.505 83.5502C215.673 91.6734 220.439 94.1546 226.802 90.9938C232.117 88.219 236.853 78.0304 245.094 82.2753C251.068 85.8149 248.499 92.9591 245.228 101.543C241.721 112.631 247.811 115.863 255.634 114.149" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M152 112.5C154.485 112.5 156.5 110.485 156.5 108C156.5 105.515 154.485 103.5 152 103.5C149.515 103.5 147.5 105.515 147.5 108C147.5 110.485 149.515 112.5 152 112.5Z" stroke="#8CD3F8" stroke-width="3"/>
+<path d="M162.817 120.835L165.994 118.225" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M154.971 111.731L165.934 124.797L170.426 121.028" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M155.5 107C135.833 112.333 120.5 119.333 109.5 128C98.5 136.667 95.8333 149.167 101.5 165.5" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round"/>
+<path d="M192.5 49.5L193 67.5L206.5 74.5" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140.5 95.5C140.5 97.156 139.157 98.5 137.5 98.5C135.844 98.5 134.5 97.156 134.5 95.5C134.5 93.844 135.844 92.5 137.5 92.5C139.157 92.5 140.5 93.844 140.5 95.5Z" stroke="#C2E8FF" stroke-width="3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M144.5 98C143.394 98 142.5 98.8962 142.5 100C142.5 101.104 143.394 102 144.5 102C145.605 102 146.5 101.104 146.5 100C146.5 98.8962 145.605 98 144.5 98Z" fill="#C2E8FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M117.652 44.5C125.119 44.5 131.622 48.693 135.048 54.8911C137.426 53.1721 140.324 52.1506 143.457 52.1506C151.505 52.1506 158.025 58.8105 158.025 67.0258C158.025 75.2421 151.505 81.902 143.457 81.902C143.283 81.902 143.111 81.8804 142.935 81.8742C140.305 85.7412 135.931 88.278 130.97 88.278C127.451 88.278 124.222 87.0024 121.705 84.8802C120.395 85.1558 119.039 85.303 117.652 85.303C106.616 85.303 98.3417 76.3408 98.3417 65.0743C98.3417 53.8068 106.616 44.5 117.652 44.5Z" stroke="#8CD3F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M121.787 92.2773L125.527 79H120.099C119.547 79 119.099 78.5523 119.099 78C119.099 77.9233 119.108 77.8468 119.125 77.772L123.34 59.772C123.445 59.3198 123.849 59 124.313 59H135.769C136.322 59 136.769 59.4477 136.769 60C136.769 60.1865 136.717 60.3692 136.619 60.5276L128.872 73H135.654C136.206 73 136.654 73.4477 136.654 74C136.654 74.2042 136.591 74.4035 136.475 74.5711L123.571 93.1195C123.256 93.5729 122.632 93.6847 122.179 93.3693C121.829 93.1259 121.672 92.6876 121.787 92.2773Z" fill="#8CD3F8"/>
+</g>
+<defs>
+<clipPath id="clip0_1340_3107">
+<rect width="300" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
